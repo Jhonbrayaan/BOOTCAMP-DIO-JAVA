@@ -1,0 +1,2 @@
+/* Exercicio 2 de Operadores lógicos e relacionais, controle de fluxo e blocos */
+
