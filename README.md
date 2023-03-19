@@ -10,8 +10,6 @@ NPM (v7.0.8 ou superior)
 # Instalação
 Clone este repositório: git clone https://github.com/Jhonbrayaan/BOOTCAMP-DIO-JAVA.git
 Entre na pasta do projeto: cd BOOTCAMP-DIO
-Instale as dependências: npm install
-Execute o projeto: npm start
 
 # Tecnologias utilizadas
 Node.js
